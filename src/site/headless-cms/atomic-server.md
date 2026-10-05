@@ -1,11 +1,11 @@
 ---
 title: Atomic Server
-homepage: https://atomicserver.eu/
+homepage: https://atomic.place
 opensource: "Yes"
 language:
   - Rust
   - TypeScript
-repo: atomicdata-dev/atomic-server
+repo: ontola/atomic-server
 typeofcms: "API Driven"
 supportedgenerators:
   - All

@@ -1,7 +1,7 @@
 ---
 title: Pimcore
-repo: /pimcore/pimcore
-homepage: https://www.pimcore.com
+repo: pimcore/pimcore
+homepage: https://pimcore.com/
 twitter: pimcore
 opensource: "Yes"
 language:

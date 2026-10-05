@@ -1,7 +1,7 @@
 ---
 title: HashBrown
-repo: Putaitu/hashbrown-cms
-homepage: https://hashbrowncms.org/
+repo: HashBrownCMS/hashbrown-cms
+homepage: https://github.com/HashBrownCMS/hashbrown-cms
 opensource: "Yes"
 language:
   - JavaScript

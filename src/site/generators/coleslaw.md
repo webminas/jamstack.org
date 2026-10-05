@@ -1,7 +1,7 @@
 ---
 title: Coleslaw
-repo: kingcons/coleslaw
-homepage: https://github.com/kingcons/coleslaw
+repo: coleslaw-org/coleslaw
+homepage: https://github.com/coleslaw-org/coleslaw
 language:
   - Lisp
 license:

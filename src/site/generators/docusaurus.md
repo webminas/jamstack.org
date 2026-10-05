@@ -1,7 +1,7 @@
 ---
 title: Docusaurus
 repo: facebook/docusaurus
-homepage: https://v2.docusaurus.io
+homepage: https://docusaurus.io/
 language:
   - JavaScript
 license:

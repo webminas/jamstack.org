@@ -1,6 +1,6 @@
 ---
 title: Pages CMS
-repo: pages-cms/pages-cms
+repo: hunvreus/pagescms
 homepage: https://pagescms.org/
 twitter: pagescms
 opensource: "Yes"

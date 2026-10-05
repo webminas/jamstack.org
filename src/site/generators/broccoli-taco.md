@@ -1,7 +1,7 @@
 ---
 title: Broccoli Taco
 repo: moudy/broccoli-taco
-homepage: http://broccoli-taco.com/
+homepage: https://github.com/moudy/broccoli-taco
 language:
   - JavaScript
 license:

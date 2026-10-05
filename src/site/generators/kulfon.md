@@ -1,7 +1,7 @@
 ---
 title: Kulfon
 repo: kulfonjs/kulfon
-homepage: https://kulfon.org
+homepage: https://github.com/kulfonjs/kulfon
 language:
   - JavaScript
 license:

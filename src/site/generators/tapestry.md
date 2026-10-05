@@ -1,7 +1,7 @@
 ---
 title: Tapestry
 repo: tapestry-cloud/tapestry
-homepage: https://www.tapestry.cloud/
+homepage: https://github.com/tapestry-cloud/tapestry
 language:
   - PHP
 license:

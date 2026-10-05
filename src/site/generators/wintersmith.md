@@ -1,7 +1,7 @@
 ---
 title: Wintersmith
 repo: jnordberg/wintersmith
-homepage: http://wintersmith.io/
+homepage: https://github.com/jnordberg/wintersmith
 language:
   - CoffeeScript
 license:

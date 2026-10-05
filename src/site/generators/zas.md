@@ -1,7 +1,7 @@
 ---
 title: Zas
-repo: imdario/zas
-homepage: http://github.com/imdario/zas
+repo: darccio/zas
+homepage: https://github.com/darccio/zas
 language:
   - Go
 license:

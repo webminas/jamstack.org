@@ -1,7 +1,7 @@
 ---
 title: Entu SSG
 repo: entu/ssg
-homepage: https://ssg.entu.app
+homepage: https://github.com/entu/ssg
 language:
   - JavaScript
 license:

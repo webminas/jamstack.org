@@ -1,7 +1,7 @@
 ---
 title: Primo
-repo: primo-af/primo
-homepage: https://primo.so
+repo: primocms/primo
+homepage: https://primo.build/
 language:
   - Svelte
 license:

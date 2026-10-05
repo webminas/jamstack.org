@@ -1,7 +1,7 @@
 ---
 title: jus
 repo: jus/jus
-homepage: http://jus.js.org
+homepage: https://github.com/jus/jus
 language:
   - JavaScript
 license:

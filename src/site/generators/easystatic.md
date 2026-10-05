@@ -1,7 +1,7 @@
 ---
 title: Easystatic
 repo: easystatic/easystatic
-homepage: https://easystatic.com/
+homepage: https://github.com/easystatic/easystatic
 language:
   - JavaScript
 license:

@@ -1,6 +1,5 @@
 ---
 title: Prismic
-repo: prismicio/slice-machine
 homepage: https://prismic.io/
 twitter: prismicio
 opensource: "No"

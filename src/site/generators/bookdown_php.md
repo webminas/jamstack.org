@@ -1,7 +1,7 @@
 ---
 title: Bookdown (PHP)
 repo: bookdown/Bookdown.Bookdown
-homepage: http://bookdown.io/
+homepage: https://github.com/bookdown/Bookdown.Bookdown
 language:
   - PHP
 license:

@@ -1,7 +1,7 @@
 ---
 title: Docpad
 repo: docpad/docpad
-homepage: http://docpad.org/
+homepage: https://docpad.bevry.me
 language:
   - CoffeeScript
 license:

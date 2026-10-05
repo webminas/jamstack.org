@@ -1,7 +1,8 @@
 ---
 title: Pollen
+repohost: gitlab
 repo: mbutterick/pollen
-homepage: http://pollenpub.com
+homepage: https://docs.racket-lang.org/pollen/
 language:
   - Racket
 license:

@@ -1,7 +1,7 @@
 ---
 title: WPWMM4
 repo: uzsolt/wpwmm4
-homepage: http://git.uzsolt.hu/wpwmm4/
+homepage: https://github.com/uzsolt/wpwmm4
 language:
   - M4
   - Make

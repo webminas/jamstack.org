@@ -1,7 +1,7 @@
 ---
 title: Daptin
 repo: daptin/daptin
-homepage: https://dapt.in
+homepage: https://daptin.github.io/
 opensource: "Yes"
 language:
   - Go

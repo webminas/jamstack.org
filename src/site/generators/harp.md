@@ -1,7 +1,7 @@
 ---
 title: Harp
 repo: sintaxi/harp
-homepage: http://harpjs.com/
+homepage: https://harp.sh
 language:
   - JavaScript
 license:

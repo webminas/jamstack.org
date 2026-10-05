@@ -1,7 +1,7 @@
 ---
 title: Ponzu
 repo: ponzu-cms/ponzu
-homepage: https://ponzu-cms.org
+homepage: https://github.com/ponzu-cms/ponzu
 twitter: ponzu_cms
 opensource: "Yes"
 language:

@@ -1,7 +1,7 @@
 ---
 title: Blogdown
 repo: rstudio/blogdown
-homepage: https://bookdown.org/yihui/blogdown
+homepage: https://pkg.yihui.org/blogdown/
 language:
   - R
 license:

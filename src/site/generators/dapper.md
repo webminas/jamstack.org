@@ -1,7 +1,7 @@
 ---
 title: Dapper
 repo: markdbenson/dapper
-homepage: http://vanilladraft.com/dapper/
+homepage: https://markdbenson.com/dapper
 language:
   - Perl
 license:

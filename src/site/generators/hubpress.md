@@ -1,7 +1,7 @@
 ---
 title: HubPress
 repo: HubPress/hubpress.io
-homepage: http://hubpress.github.io/
+homepage: https://hubpress.dev
 language:
   - JavaScript
 license:

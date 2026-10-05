@@ -1,7 +1,7 @@
 ---
 title: Scalatic
 repo: padurean/scalatic
-homepage: http://functionalprogramming.ro/scalatic
+homepage: https://github.com/padurean/scalatic
 language:
   - Scala
 license:
