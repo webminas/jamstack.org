@@ -1,7 +1,7 @@
 ---
 title: Yass
 repo: yet-another-static-site-generator/yass
-homepage: http://www.yass.website/
+homepage: https://www.yass.website/
 language:
   - Ada
 license:
