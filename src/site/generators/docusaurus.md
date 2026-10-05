@@ -10,7 +10,6 @@ templates:
   - React
   - Markdown
 description: 'Build optimized websites quickly, focus on your content'
-startertemplaterepo: https://github.com/anishkny/docusaurus-base
 twitter: docusaurus
 ---
 
