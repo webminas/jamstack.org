@@ -10,6 +10,11 @@ typeofcms: "API Driven"
 supportedgenerators:
   - All
 description: Payload is a free and open-source headless CMS aimed sharply at providing the best, developer-first experience possible to build out APIs and admin UI.
+hosting:
+  - Vercel
+  - Cloudflare
+  - Netlify
+  - Railway
 ---
 
 [Payload](https://payloadcms.com/) is a free and open-source headless CMS aimed sharply at providing the best, developer-first experience possible to build out APIs and admin UI.

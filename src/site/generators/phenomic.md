@@ -11,6 +11,8 @@ templates:
 description: A modern static website generator to create dynamic website using React components.
 startertemplaterepo: https://github.com/capriosa/phenomic-cms
 twitter: Phenomic_app
+hosting:
+  - Netlify
 ---
 
 > Modern static website generator for creating dynamic websites using React

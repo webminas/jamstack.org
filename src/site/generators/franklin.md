@@ -8,6 +8,8 @@ license:
   - MIT
 templates: []
 description: A simple, customisable static site generator oriented towards technical blogging and light, fast-loading pages.
+hosting:
+  - Netlify
 ---
 
 Franklin is a simple, customisable static site generator oriented towards technical blogging and light, fast-loading pages.

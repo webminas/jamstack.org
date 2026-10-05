@@ -14,6 +14,8 @@ supportedgenerators:
 description: Wagtail is the leading open-source Python CMS. Based on Django, it supports both traditional and headless sites via REST and GraphQL APIs.
 images:
   - path: /img/cms/wagtail-page-editor.png
+hosting:
+  - GCP
 ---
 
 Wagtail is an open-source CMS built on the Django web framework, focused on flexibility and user experience.

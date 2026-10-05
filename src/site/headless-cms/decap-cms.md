@@ -16,6 +16,8 @@ images:
   - path: /img/cms/netlify-cms1.png
   - path: /img/cms/netlify-cms2.png
   - path: /img/cms/netlify-cms3.png
+hosting:
+  - Netlify
 ---
 # Decap CMS (formerly Netlify CMS)
 

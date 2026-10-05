@@ -15,6 +15,8 @@ images:
   - path: /img/cms/ghost-product.png
   - path: /img/cms/ghost-architecture.png
   - path: /img/cms/ghost-examples.png
+hosting:
+  - Railway
 ---
 
 Ghost is an open source, professional publishing platform built on a modern Node.js technology stack — designed for teams who need power, flexibility and performance. Every day Ghost powers some of the most-read stories on the internet, serving hundreds of millions of requests across tens of thousands of sites.

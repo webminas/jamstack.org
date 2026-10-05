@@ -9,6 +9,8 @@ license:
 templates:
   - Jade
 description: A flexible static site generator with awesome plugins.
+hosting:
+  - Netlify
 ---
 
 Wintersmith is a simple yet flexible static site generator. It takes contents (markdown, less, scripts, etc), transforms them using plugins and outputs a static website (html, css, images, etc) that you can host anywhere.

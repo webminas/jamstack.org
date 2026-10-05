@@ -9,6 +9,8 @@ license:
 templates:
   - MDX
 description: Simple, efficient and easy to extend.
+hosting:
+  - Netlify
 ---
 
 Use react components to expand the generator.

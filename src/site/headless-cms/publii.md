@@ -9,6 +9,8 @@ typeofcms: "Git-based"
 supportedgenerators:
   - "Built In"
 description: Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners. 
+hosting:
+  - Netlify
 ---
 ## Publii
 Unlike static-site generators that are often unwieldy and difficult to use, Publii provides an easy-to-understand UI much like server-based CMSs such as WordPress or Joomla!, where users can create posts and other site content, and style their site using a variety of built-in themes and options. Users can enjoy the benefits of a super-fast and secure static website, with all the convenience that a CMS provides.

@@ -13,6 +13,9 @@ templates:
 description: Hand-crafted, modern frontend development.
 startertemplaterepo: https://github.com/wallin/middleman-template
 twitter: middlemanapp
+hosting:
+  - Vercel
+  - Netlify
 ---
 
 **Middleman** is a static site generator using all the shortcuts and tools in modern web development. Check out [middlemanapp.com](https://middlemanapp.com/) for detailed tutorials, including a [getting started guide](https://middlemanapp.com/basics/getting-started/). You can also follow [@middlemanapp](https://twitter.com/middlemanapp) for updates.

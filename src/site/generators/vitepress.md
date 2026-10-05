@@ -11,6 +11,13 @@ templates:
 description: Vue-powered Static Site Generator based on vite
 startertemplaterepo: https://github.com/anishkny/vitepress-starter
 twitter: vuejs
+hosting:
+  - Vercel
+  - Cloudflare
+  - Netlify
+  - AWS
+  - GCP
+  - Azure
 ---
 
 [VuePress](https://vuepress.vuejs.org/)' little brother, built on top of [vite](https://github.com/vuejs/vite)

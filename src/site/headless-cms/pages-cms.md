@@ -14,6 +14,8 @@ images:
   - path: /img/cms/pages-cms-1.png
   - path: /img/cms/pages-cms-2.png
   - path: /img/cms/pages-cms-3.png
+hosting:
+  - Vercel
 ---
 
 # What is Pages CMS?

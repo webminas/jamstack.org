@@ -10,6 +10,8 @@ templates:
   - R
   - R Markdown
 description: Create Blogs and Websites with R Markdown
+hosting:
+  - Netlify
 ---
 
 [![Build Status](https://travis-ci.org/rstudio/blogdown.svg)](https://travis-ci.org/rstudio/blogdown)

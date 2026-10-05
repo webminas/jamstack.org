@@ -11,6 +11,9 @@ typeofcms: "API Driven"
 supportedgenerators:
   - All
 description: The WordPress CMS enables headless development through a built-in REST API and offers extensions to enable methods like GraphQL via a rich plugin ecosystem.
+hosting:
+  - GCP
+  - Azure
 ---
 ## What Is WordPress?
 

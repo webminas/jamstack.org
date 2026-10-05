@@ -11,6 +11,14 @@ templates:
 description: Build blazing fast, modern apps and websites with React
 startertemplaterepo: https://github.com/gatsbyjs/gatsby-starter-default
 twitter: gatsbyjs
+hosting:
+  - Vercel
+  - Cloudflare
+  - Netlify
+  - Railway
+  - AWS
+  - GCP
+  - Azure
 ---
 
 Build blazing-fast, modern apps and websites with React

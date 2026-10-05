@@ -10,6 +10,9 @@ typeofcms: "Git + API"
 supportedgenerators:
   - All
 description: TinaCMS is a free and open-source headless CMS focused on providing the best developer experience for building web sites and applications.
+hosting:
+  - Vercel
+  - Netlify
 ---
 
 [TinaCMS](https://tina.io) is a free and open-source headless CMS focused on providing the best developer experience for building web sites and applications. Tina has two main components: 

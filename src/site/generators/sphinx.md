@@ -9,6 +9,8 @@ license:
 templates:
   - Jinja2
 description: A tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl.
+hosting:
+  - Cloudflare
 ---
 
 Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl and

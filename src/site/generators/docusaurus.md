@@ -11,6 +11,10 @@ templates:
   - Markdown
 description: 'Build optimized websites quickly, focus on your content'
 twitter: docusaurus
+hosting:
+  - Vercel
+  - Cloudflare
+  - Netlify
 ---
 
 ## Powered by Markdown

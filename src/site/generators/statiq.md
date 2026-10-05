@@ -10,6 +10,9 @@ templates:
   - Razor
   - Markdown
 description: Statiq Web is a flexible static site generator written in .NET
+hosting:
+  - Netlify
+  - Azure
 ---
 
 

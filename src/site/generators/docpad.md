@@ -10,6 +10,8 @@ templates:
   - Eco
   - Any JS
 description: Feature rich, configurable and language agnostic.
+hosting:
+  - Netlify
 ---
 
 Hi! I'm DocPad, I streamline the web development process and help close the gap between experts and beginners. I've been used in production by big and small companies for over a year and a half now to create [plenty of amazing and powerful web sites and applications](https://docpad.org/docs/showcase) quicker than ever before. What makes me different is instead of being a box to cram yourself into and hold you back, I'm a freeway to what you want to accomplish, just getting out of your way and allowing you to create stuff quicker than ever before without limits. Leave the redundant stuff up to me, so you can focus on the awesome stuff.

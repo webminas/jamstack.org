@@ -15,6 +15,9 @@ images:
   - path: /img/cms/strapi-content-manager.png
   - path: /img/cms/strapi-media-library.png
   - path: /img/cms/strapi-settings-edit-roles.png
+hosting:
+  - Railway
+  - Azure
 ---
 
 ## Get started
